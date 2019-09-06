@@ -2,6 +2,7 @@ package com.termux.app;
 
 import android.content.Context;
 import android.os.Build;
+import android.provider.Settings;
 import android.util.AttributeSet;
 
 import java.util.concurrent.Executors;
