@@ -14,6 +14,7 @@ task:
     - tests
 
   script: |
+    ./download-bootstraps.sh
     ./gradlew assembleDebug
 
   output_artifacts:
